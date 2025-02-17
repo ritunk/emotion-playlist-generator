@@ -1,3 +1,4 @@
 streamlit==1.42.0
 transformers==4.21.1
 spotipy==2.22.1
+torch==1.13.1
